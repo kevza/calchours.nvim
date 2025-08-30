@@ -1,5 +1,5 @@
 local M = {}
-local calc_utils = require("nvim_calchours.utils");
+local calc_utils = require("calchours.utils");
 
 function M.calculate_hours()
   -- Get the current buffer
